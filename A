@@ -1,0 +1,31 @@
+<!doctype html> <!-- aqui é um comentario -->
+<html>
+<!-- essa tag representa o arquivo .html -->
+
+<head>
+  <!-- essa tag se refere aos metadados pequenas informações para o site carregar -->
+  <meta charset="UTF-8"> <!-- define a codificação dos caracteres das letras do alfabeto -->
+  <title></title> <!-- titulo da guia do navegador -->
+</head>
+
+<body>
+  <!-- essa tag é referente ao conteúdo da pagina -->
+  <h2>Poeminho do contra</h2>
+  <p>
+    Todos esses que aí estão <br>
+    Atravancando meu caminho, <br>
+    Eles passarão... <br>
+    Eu passarinho!
+    <!-- a tag <br> serve como a quebra de linha de uma frase -->
+  </p>
+  <cite> Desconhecido - 2024 </cite>
+</body>
+<style type="text/css">
+  body {
+    color: white;
+    background-color: black;
+    font-family: Arial;
+  }
+</style>
+
+</html>
